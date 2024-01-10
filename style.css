@@ -1,0 +1,21 @@
+body {
+	background-color: grey;
+}
+
+#main {
+	padding: 100px;
+	border: 100px;
+	border-color: black;
+	border-width: 5px;
+	border-style: dashed;
+	background-color: white;
+	display: flex;
+	align-items: center;
+    box-shadow: 5px;
+}
+
+.card-img-top {
+	max-width: 400px;
+}
+
+
